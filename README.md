@@ -15,6 +15,7 @@
 - Admin of [**the Algorithms Club at the University of Seville**](https://clubalgoritmiaus.es).
 - I won second place in the Andalusian Informatics Olympiad(OIA).
 - Third place at the 30th edition of Startup Weekend, and received a mention in the INCIBE Cybersecurity competition.
+- Second place at Lovable x Young Founders of London Hackaton.
 
 ## My builds
 
