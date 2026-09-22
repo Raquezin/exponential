@@ -32,7 +32,7 @@
 - [**Matrix Library**](https://github.com/raquezin/matrix_library): A C implementation of a matrix library from scratch.
   - **Core purpose**: Essential for understanding linear algebra, critical for machine learning algorithms.
   - **Current status**: Under development.
-    - Supports basic operatitons like: addition, multiplication and determinant calculation.
+    - Supports basic operations like: addition, multiplication and determinant calculation.
     - Optimized methods like PLU decomposition are being implemented; more features will follow.
 - [**Snake Algorithm**](https://github.com/raquezin/snake_algorithms): A C implementation of the classic Snake game with a greedy algorithm.
   - **Purpose**: Practice algorithm design and problem-solving.
@@ -41,8 +41,8 @@
 
 ## Experience (TS;DR)
 
-- **CTO [HomiMatch](https://homimatch.com) _(Apr 2025 - May 2026)_**: Developing the app, IOS & Android.
-- **Intern [University of Seville](https://www.us.es/) _(Oct 2025 - Jun 2026)_**: Department of Electronic.
+- **CTO [HomiMatch](https://homimatch.com) _(Apr 2025 - May 2026)_**: Developing the app, iOS & Android.
+- **Intern [University of Seville](https://www.us.es/) _(Oct 2025 - Jun 2026)_**: Department of Electronics.
 - **Teacher [AcademiaConoser](https://www.academiaconoser.com/) _(Nov 2025 - Jan 2026)_**: Communication and Algorithms.
 
 ---
