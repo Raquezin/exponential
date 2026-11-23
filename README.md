@@ -12,12 +12,13 @@
 
 ## Main achievements
 
+- [**1st in the Accenture Track & 3rd in the Qube Research & Technologies × OpenAI CTF @ DurHack**](https://github.com/raquezin/durhack26) (2026). Our team also reached the final four in the Marshall Wace track.
 - Instructor & Webmaster at [**the Algorithms Club at the University of Seville**](https://clubalgoritmiaus.es/news/2025-06-resultados-elecciones-caus-2025) (CAUS).
 - **1st Place @ ETSII Emprende**, the university entrepreneurship competition (2026).
 - [**1st Place Category A/B & 4th of 69 Overall @ AdaByron Andalusia**](https://www.linkedin.com/posts/fgiraldezc_english-below-mi-primer-ada-byron-el-ugcPost-7455336280516734976-qNdP) (2026).
-- [**2nd Place @ Andalusian Olympiad in Informatics**](https://olimpiadainformatica.us.es/edicion-2025-ix-olimpiada) (2025).
-- [**3rd Prize & Cybersecurity Award by INCIBE @ 30th Edition Start-up Weekend TechStars**](https://www.linkedin.com/posts/fgiraldezc_rittai-swsevilla30-sevilla-activity-7398834330963415040-tpg-) (2025).
 - [**2nd Prize @ Lovable x Young Founders of London Hackathon**](https://www.linkedin.com/posts/fgiraldezc_what-can-a-group-of-young-spanish-builders-activity-7421936535396073472-GDUh) (2026).
+- [**3rd Prize & Cybersecurity Award by INCIBE @ 30th Edition Start-up Weekend TechStars**](https://www.linkedin.com/posts/fgiraldezc_rittai-swsevilla30-sevilla-activity-7398834330963415040-tpg-) (2025).
+- [**2nd Place @ Andalusian Olympiad in Informatics**](https://olimpiadainformatica.us.es/edicion-2025-ix-olimpiada) (2025).
 - [**HackEurope**](https://github.com/Raquezin/HackEurope26), [HackUPC](https://github.com/Raquezin/HackUPC26), [HackSpain](https://github.com/Raquezin/HackSpain26).
 
 ## My builds
